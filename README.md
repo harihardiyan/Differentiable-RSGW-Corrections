@@ -7,6 +7,8 @@
 [![Physics: RS--GW](https://img.shields.io/badge/Physics-Randall--Sundrum--GW-red.svg)](#)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18204115.svg)](https://doi.org/10.5281/zenodo.18204115)
 
+
+rs_gw_discovery_results.png
 A high-performance, fully differentiable physics solver implemented in **JAX** for exploring localized quantum corrections in the **Randall–Sundrum–Goldberger–Wise (RS-GW)** warped extra-dimensional model.
 
 ## Overview
