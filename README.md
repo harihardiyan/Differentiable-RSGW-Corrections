@@ -6,9 +6,14 @@
 [![Framework: JAX](https://img.shields.io/badge/Framework-JAX-blue.svg)](https://github.com/google/jax)
 [![Physics: RS--GW](https://img.shields.io/badge/Physics-Randall--Sundrum--GW-red.svg)](#)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18204115.svg)](https://doi.org/10.5281/zenodo.18204115)
+<p align="center">
+  <img src="assets/rs_gw_discovery_results.png" alt="Discovery Results" width="800">
+  <br>
+  <b>Figure 1:</b> Summary of Physical Deviations, Sensitivity Analysis, and Gradient-Based Optimization Results.
+</p>
 
+---
 
-rs_gw_discovery_results.png
 A high-performance, fully differentiable physics solver implemented in **JAX** for exploring localized quantum corrections in the **Randall–Sundrum–Goldberger–Wise (RS-GW)** warped extra-dimensional model.
 
 ## Overview
