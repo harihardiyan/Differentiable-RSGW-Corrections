@@ -24,7 +24,29 @@ This repository provides a framework for analyzing the stability and hierarchy o
 > We present a fully differentiable fixed-step Runge–Kutta 4 (RK4) integrator applied to the RS-GW model. Our work incorporates localized quantum corrections in both the IR and UV regimes. By propagating gradients seamlessly through the physics solver, we enable direct sensitivity analysis of radion stabilization and effective hierarchy formation. Our findings demonstrate that **IR-localized quantum corrections** (parametrized by $\epsilon_{JT}$ and $\epsilon_{Sch}$) overwhelmingly dominate the deviations in the effective warp factor and Higgs mass shift, while UV counterterms yield only marginal contributions.
 
 ---
+# Differentiable RS-GW Evolution Suite
 
+A systematic exploration of quantum corrections in the Randall-Sundrum-Goldberger-Wise model using JAX-based differentiable physics.
+
+## 🚀 Research Evolution
+
+This repository tracks the evolution of the **Eureka Discovery Pipeline**, moving from baseline physics to high-SNR (Signal-to-Noise Ratio) optimization.
+
+| Version | Codename | Key Contribution | Status |
+| :--- | :--- | :--- | :--- |
+| **v1.0** | [Eureka 1](./eureka1_baseline) | Initial Differentiable Solver & Baseline Corrections | **Published (DOI)** |
+| **v2.0** | [Eureka 2](./eureka2_optimization) | Gradient-Based Sensitivity & Parameter Ascent | **Completed** |
+| **v3.0** | [Eureka 3](./eureka3_protocol) | Triple-Verification Protocol (Convergence & Audit) | **Completed** |
+| **v4.0** | [Eureka 4](./eureka4_snr_normalized) | SNR-Normalized Optimization (10^10 Signal Boost) | **Completed** |
+
+---
+
+## 🔬 Core Methodology: Differentiable Physics
+Unlike traditional grid-search methods, this suite leverages **Automatic Differentiation (AD)** via JAX to propagate gradients through a fixed-step RK4 integrator. This enables:
+- **Direct Sensitivity Analysis**: Knowing exactly which parameter drives the hierarchy.
+- **Precision Optimization**: Reaching novelty peaks that are inaccessible to manual sweeps.
+- **Numerical Rigor**: Every discovery is backed by convergence checks and physical audits.
+  
 ## Key Features
 
 - **Differentiable Physics Solver**: Built on JAX's `lax.scan`, enabling end-to-end differentiability through the RK4 integration steps.
