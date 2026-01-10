@@ -85,18 +85,17 @@ This project is an academic exploration into the intersection of high-energy phy
 - *Research focus*: Warped Extra Dimensions, Differentiable Physics, and Quantum Gravity.
 
 ## Citation
-If you find this work or code useful for your research, please consider citing it:
+If this framework aids your research, please consider citing it as:
 
 ```bibtex
-@software{hardiyan2026diffRSGW,
-  author = {Hari Hardiyan},
-  title = {Differentiable Quantum Corrections in Randall-Sundrum-Goldberger-Wise Models},
-  year = {2026},
-  url = {https://github.com/harihardiyan/Differentiable-RSGW-Corrections},
-  note = {Physics solver using JAX for AD-based sensitivity analysis}
+@software{hardiyan2024diff_rsgw,
+  author       = {Hari Hardiyan},
+  title        = {Differentiable-RSGW-Corrections: v1.0.0},
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.18204115},
+  url          = {https://doi.org/10.5281/zenodo.18204115}
 }
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.18204115
 ```
-
