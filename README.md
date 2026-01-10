@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### Usage
 Run the main discovery script to perform a 2D parameter sweep and initiate gradient-based optimization:
 ```bash
-python main.py
+Differentiable-RSGW-Corrections.py
 ```
 
 ---
