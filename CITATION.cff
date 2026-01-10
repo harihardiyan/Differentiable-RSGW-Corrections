@@ -7,3 +7,6 @@ title: "Differentiable-RSGW-Corrections"
 version: 1.0.0
 date-released: 2026-01-10
 url: "https://github.com/harihardiyan/Differentiable-RSGW-Corrections"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18204115
