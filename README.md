@@ -87,10 +87,10 @@ This project is an academic exploration into the intersection of high-energy phy
 If you find this work or code useful for your research, please consider citing it:
 
 ```bibtex
-@software{hardiyan2024diffRSGW,
+@software{hardiyan2026diffRSGW,
   author = {Hari Hardiyan},
   title = {Differentiable Quantum Corrections in Randall-Sundrum-Goldberger-Wise Models},
-  year = {2024},
+  year = {2026},
   url = {https://github.com/harihardiyan/Differentiable-RSGW-Corrections},
   note = {Physics solver using JAX for AD-based sensitivity analysis}
 }
