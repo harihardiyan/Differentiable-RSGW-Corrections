@@ -95,5 +95,8 @@ If you find this work or code useful for your research, please consider citing i
   url = {https://github.com/harihardiyan/Differentiable-RSGW-Corrections},
   note = {Physics solver using JAX for AD-based sensitivity analysis}
 }
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18204115
 ```
 
