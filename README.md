@@ -111,7 +111,7 @@ This project is an academic exploration into the intersection of high-energy phy
 
 ## Author
 **Hari Hardiyan**
-- *Research focus*: Warped Extra Dimensions, Differentiable Physics, and Quantum Gravity.
+- This repository is an AI-assisted code artifact generated via prompt orchestration. The author does not claim domain expertise.
 
 ## Citation
 If this framework aids your research, please consider citing it as:
